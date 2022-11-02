@@ -1,4 +1,4 @@
-# ECE4179_homework
+# ECE4179-homework
 pytorch_lightning_netrual_network
 
 Data of the assignment2 data is available from:
